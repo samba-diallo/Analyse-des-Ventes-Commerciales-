@@ -1,2 +1,2 @@
 # Analyse-des-Ventes-Commerciales-
-Voici une description générale du projet en 350 caractères,  Ce projet vise à analyser les ventes de plusieurs catégories de produits dans différents pays. Il permet d’identifier les tendances de consommation, d’évaluer la performance des segments et de visualiser l’évolution des ventes à l’aide d’outils d’analyse décisionnelle.
+Ce projet vise à analyser les ventes de plusieurs catégories de produits dans différents pays. Il permet d’identifier les tendances de consommation, d’évaluer la performance des segments et de visualiser l’évolution des ventes à l’aide d’outils d’analyse décisionnelle.
